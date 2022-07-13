@@ -1,7 +1,3 @@
-# GitHub/dZone - Data and Document Zone
-
-Data and Document Zone
-
     ./dZone
      ├──  README.md
      └──  README.md.old
@@ -110,9 +106,3 @@ Data and Document Zone
      
      4 directories, 42 files (Wed Jul 13 18:39:54 JST 2022)
 
-
-Note: url = https://github.com/hohno-46466/dZone
-
-Note: url = git@github.com:hohno-46466/dZone.git
-
--EOF-
