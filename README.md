@@ -4,12 +4,15 @@ Data and Document Zone
 
     ./dZone
      ├──  README.md
+     ├──  README.md.bak
      └──  README.md.old
      
-     0 directories, 2 files (Sun Jul 17 17:48:08 JST 2022)
+     0 directories, 3 files (Tue Jul 26 05:33:53 JST 2022)
+
 
     ./dZone--PT4A--USBstorage
      ├──  README.md
+     ├──  README.md.old
      ├──  USB128GB-20210601/
      │   ├──  PT4A/
      │   │   └──  README.md
@@ -23,15 +26,7 @@ Data and Document Zone
      │   │   └──  WPSettings.dat
      │   └──  data/
      │       ├──  Structured_data/
-     │       │   ├──  Readme_Rev.2.0.txt
-     │       │   ├──  amedas/
-     │       │   ├──  format/
-     │       │   └──  samples/
      │       └──  Unstructured_data/
-     │           ├──  README.txt
-     │           ├──  References/
-     │           ├──  TUTORIAL.txt
-     │           └──  Tokyo2020/
      ├──  USB256GB-20220612/
      │   ├──  PT4A/
      │   │   └──  README.md
@@ -42,23 +37,15 @@ Data and Document Zone
      │   ├──  Readme4_PT4A_REV.2.1.txt
      │   └──  data/
      │       ├──  Structured_data/
-     │       │   ├──  Readme_Rev.2.0.txt
-     │       │   ├──  Readme_Rev.2.1.txt
-     │       │   ├──  amedas/
-     │       │   ├──  format/
-     │       │   └──  samples/
      │       └──  Unstructured_data/
-     │           ├──  README.txt
-     │           ├──  References/
-     │           ├──  TUTORIAL.txt
-     │           └──  Tokyo2020/
      └──  workspace/
          └──  tmptools/
              ├──  mmm.sh
              ├──  uuu.sh
              └──  xxx.sh
      
-     23 directories, 25 files (Sun Jul 17 17:48:08 JST 2022)
+     13 directories, 19 files (Tue Jul 26 05:33:53 JST 2022)
+
 
     ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
@@ -108,7 +95,7 @@ Data and Document Zone
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Sun Jul 17 17:48:08 JST 2022)
+     4 directories, 42 files (Tue Jul 26 05:33:53 JST 2022)
 
 
 Note: url = https://github.com/hohno-46466/dZone
