@@ -134,8 +134,8 @@ Data and Document Zone
      4 directories, 42 files (Mon Aug  8 02:56:10 JST 2022)
 
 
-Note: url = https://github.com/hohno-46466/dZone
+Note: URL = https://github.com/hohno-46466/dZone
 
-Note: url = git@github.com:hohno-46466/dZone.git
+Note: URL = git@github.com:hohno-46466/dZone.git
 
 -EOF-
