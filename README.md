@@ -6,7 +6,7 @@ Data and Document Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Mon Aug  8 02:56:10 JST 2022)
+     0 directories, 2 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./dZone--PT4A--USBstorage
      ├──  README.md
@@ -81,7 +81,7 @@ Data and Document Zone
              ├──  uuu.sh
              └──  xxx.sh
      
-     33 directories, 38 files (Mon Aug  8 02:56:10 JST 2022)
+     33 directories, 38 files (Fri Aug 12 21:57:33 JST 2022)
 
     ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
@@ -131,7 +131,7 @@ Data and Document Zone
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Mon Aug  8 02:56:10 JST 2022)
+     4 directories, 42 files (Fri Aug 12 21:57:33 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/dZone
