@@ -6,7 +6,7 @@ Data and Document Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Mon Sep 19 13:31:23 JST 2022)
+     0 directories, 2 files (Sat Sep 24 17:41:42 JST 2022)
 
      ./dZone--PT4A--USBstorage
      ├──  README.md
@@ -83,7 +83,7 @@ Data and Document Zone
              ├──  uuu.sh
              └──  xxx.sh
      
-     34 directories, 39 files (Mon Sep 19 13:31:23 JST 2022)
+     34 directories, 39 files (Sat Sep 24 17:41:43 JST 2022)
 
      ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
@@ -133,7 +133,51 @@ Data and Document Zone
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Mon Sep 19 13:31:23 JST 2022)
+     4 directories, 42 files (Sat Sep 24 17:41:43 JST 2022)
+
+     ./dZone--kakenR5--kibanC
+     ├──  ==PrivateRepository==
+     ├──  README.md
+     ├──  misc/
+     │   ├──  kiban_c_utf_single/
+     │   │   ├──  #egg_kiban_c.tex#
+     │   │   ├──  A_README.pdf
+     │   │   ├──  blahblah.tex
+     │   │   ├──  egg_kiban_c.tex
+     │   │   ├──  figs/
+     │   │   ├──  jack_pub.tex
+     │   │   ├──  kiban_c.pdf
+     │   │   ├──  kiban_c.tex
+     │   │   ├──  optional_packages/
+     │   │   ├──  pieces/
+     │   │   ├──  sample_pdf/
+     │   │   ├──  subject_headers/
+     │   │   └──  udline.sty
+     │   └──  kiban_c_utf_single_20220802.zip
+     └──  workspace-20220920-1/
+         ├──  README.md
+         ├──  kiban_c_utf_single/
+         │   ├──  23000611-127-90213818-60060-0001 (6).pdf
+         │   ├──  23000611-127-90213818-60060-0001-final.pdf -> 23000611-127-90213818-60060-0001 (6).pdf
+         │   ├──  README.md
+         │   ├──  figs/
+         │   ├──  figspics/
+         │   ├──  jack_pub.tex
+         │   ├──  kiban_c-0.tex
+         │   ├──  kiban_c-1.tex
+         │   ├──  kiban_c-2.tex
+         │   ├──  kiban_c-3.tex
+         │   ├──  kiban_c-9.tex
+         │   ├──  kiban_c.pdf
+         │   ├──  kiban_c.tex
+         │   ├──  kiban_c.tex.bak2
+         │   ├──  optional_packages/
+         │   ├──  pieces/
+         │   ├──  subject_headers/
+         │   └──  udline.sty
+         └──  研究計画調書-23000611-127-90213818-60060-0001.pdf
+     
+     14 directories, 26 files (Sat Sep 24 17:41:43 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/dZone
