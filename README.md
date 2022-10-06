@@ -6,7 +6,7 @@ Data and Document Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Sun Oct  2 11:01:41 JST 2022)
+     0 directories, 2 files (Thu Oct  6 16:11:04 JST 2022)
 
     ./dZone--PT4A--USBstorage
      ├──  README.md
@@ -24,15 +24,7 @@ Data and Document Zone
      │   │   └──  WPSettings.dat
      │   └──  data/
      │       ├──  Structured_data/
-     │       │   ├──  Readme_Rev.2.0.txt
-     │       │   ├──  amedas/
-     │       │   ├──  format/
-     │       │   └──  samples/
      │       └──  Unstructured_data/
-     │           ├──  README.txt
-     │           ├──  References/
-     │           ├──  TUTORIAL.txt
-     │           └──  Tokyo2020/
      ├──  USB256GB-20220612/
      │   ├──  PT4A/
      │   │   └──  README.md
@@ -43,16 +35,7 @@ Data and Document Zone
      │   ├──  Readme4_PT4A_REV.2.1.txt
      │   └──  data/
      │       ├──  Structured_data/
-     │       │   ├──  Readme_Rev.2.0.txt
-     │       │   ├──  Readme_Rev.2.1.txt
-     │       │   ├──  amedas/
-     │       │   ├──  format/
-     │       │   └──  samples/
      │       └──  Unstructured_data/
-     │           ├──  README.txt
-     │           ├──  References/
-     │           ├──  TUTORIAL.txt
-     │           └──  Tokyo2020/
      ├──  USB256GB-20220806/
      │   ├──  PT4A/
      │   │   └──  README.md
@@ -63,18 +46,18 @@ Data and Document Zone
      │   ├──  Readme4_PT4A_REV.2.2.txt
      │   └──  data/
      │       ├──  Structured_data/
-     │       │   ├──  Readme_Rev.2.1.txt
-     │       │   ├──  amedas/
-     │       │   ├──  format/
-     │       │   └──  samples/
      │       └──  Unstructured_data/
-     │           ├──  README.txt
-     │           ├──  References/
-     │           ├──  TUTORIAL.txt
-     │           └──  Tokyo2020/
-     ├──  USB256GB-20220806.tar.gz
      ├──  USB256GB-20221001/
-     │   └──  README.md
+     │   ├──  PT4A/
+     │   │   └──  README.md
+     │   ├──  README.md
+     │   ├──  Readme1_Rev.2.1.txt
+     │   ├──  Readme2_tree_2022.txt
+     │   ├──  Readme3_USB_MOUNT_REV.2.1.txt
+     │   ├──  Readme4_PT4A_REV.2.2.txt
+     │   └──  data/
+     │       ├──  Structured_data/
+     │       └──  Unstructured_data/
      └──  workspace/
          └──  tmptools/
              ├──  do8.sh
@@ -83,7 +66,7 @@ Data and Document Zone
              ├──  uuu.sh
              └──  xxx.sh
      
-     34 directories, 39 files (Sun Oct  2 11:01:41 JST 2022)
+     23 directories, 33 files (Thu Oct  6 16:11:04 JST 2022)
 
     ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
@@ -133,7 +116,7 @@ Data and Document Zone
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Sun Oct  2 11:01:41 JST 2022)
+     4 directories, 42 files (Thu Oct  6 16:11:04 JST 2022)
 
     ./dZone--kakenR5--kibanC
      ├──  ==PrivateRepository==
@@ -176,7 +159,7 @@ Data and Document Zone
              ├──  研究計画調書-23000611-127-90213818-60060-0001(1版).pdf
              └──  研究計画調書-23000611-127-90213818-60060-0001(4版).pdf
      
-     15 directories, 24 files (Sun Oct  2 11:01:41 JST 2022)
+     15 directories, 24 files (Thu Oct  6 16:11:04 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/dZone
