@@ -6,7 +6,7 @@ Data and Document Zone
      ├──  README.md
      └──  README.md.old
      
-     0 directories, 2 files (Wed Oct 12 07:09:56 JST 2022)
+     0 directories, 2 files (Sat Oct 15 21:48:42 JST 2022)
 
     ./dZone--PT4A--USBstorage
      ├──  README.md
@@ -51,10 +51,14 @@ Data and Document Zone
      │   ├──  PT4A/
      │   │   └──  README.md
      │   ├──  README.md
-     │   ├──  Readme1_Rev.2.1.txt
+     │   ├──  Readme1_Rev.2.1_JPonly.txt
+     │   ├──  Readme1_Rev.2.2.txt
      │   ├──  Readme2_tree_2022.txt
-     │   ├──  Readme3_USB_MOUNT_REV.2.1.txt
-     │   ├──  Readme4_PT4A_REV.2.2.txt
+     │   ├──  Readme2_tree_2022_JPonly.txt
+     │   ├──  Readme3_USB_MOUNT_REV.2.1_JPonly.txt
+     │   ├──  Readme3_USB_MOUNT_REV.2.2.txt
+     │   ├──  Readme4_PT4A_REV.2.2_JPonly.txt
+     │   ├──  Readme4_PT4A_REV.2.3.txt
      │   └──  data/
      │       ├──  Structured_data/
      │       └──  Unstructured_data/
@@ -66,7 +70,7 @@ Data and Document Zone
              ├──  uuu.sh
              └──  xxx.sh
      
-     23 directories, 33 files (Wed Oct 12 07:09:56 JST 2022)
+     23 directories, 37 files (Sat Oct 15 21:48:42 JST 2022)
 
     ./dZone--data--benchmarkResults
      ├──  CinebenchR23/
@@ -116,7 +120,7 @@ Data and Document Zone
          ├──  UnixBench-[hohno-SP6-2019H]-20210909.md
          └──  UnixBench-[template]-20YYMMDD.md
      
-     4 directories, 42 files (Wed Oct 12 07:09:56 JST 2022)
+     4 directories, 42 files (Sat Oct 15 21:48:42 JST 2022)
 
     ./dZone--kakenR5--kibanC
      ├──  ==PrivateRepository==
@@ -159,7 +163,7 @@ Data and Document Zone
              ├──  研究計画調書-23000611-127-90213818-60060-0001(1版).pdf
              └──  研究計画調書-23000611-127-90213818-60060-0001(4版).pdf
      
-     15 directories, 24 files (Wed Oct 12 07:09:56 JST 2022)
+     15 directories, 24 files (Sat Oct 15 21:48:42 JST 2022)
 
 
 Note: URL = https://github.com/hohno-46466/dZone
